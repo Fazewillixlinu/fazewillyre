@@ -6,12 +6,11 @@
 <a href="https://github.com/Anonymous-Zpt/T-root/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Anonymous-Zpt/T-root?color=red&style=flat-square"></a>
 <a href="https://github.com/Anonymous-Zpt/T-root/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Anonymous-Zpt/T-root?label=Watchers&color=blue&style=flat-square"></a>
 </div>
-
 # ¿Qué es root? v2.8# 📁
 
 root es una herramienta que utiliza proot para simular los privilegios root, utilizando la palabra root como acceso directo para la activación del mismo.
 
-# Instalación
+# Instalación # lnstall 
 
 * ` apt update && apt -y upgrade` 
 * ` pkg install -y git `
