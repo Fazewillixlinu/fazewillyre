@@ -56,9 +56,8 @@ chmod +x * start
 sleep 0.3
 printf "$A[$b1+$A]${b1} Finalizado..!\n"
 sleep 0.3
-printf "$A[$b1+$A]${b1} Creador:$a Anonymous Zpt\n"
+printf "$A[$b1+$A]${b1} Creador:$a Anonymous ROOT
 sleep 0.3
-printf "$A[$b1+$A]${b1} GitHub:$a  https://github.com/Anonymous-Zpt\n"
 sleep 0.3
 printf "$A[$b1+$A]${b1} Utiliza:$r ./start$b\n"
 sleep 0.1
